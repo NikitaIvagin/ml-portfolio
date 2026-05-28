@@ -29,44 +29,51 @@
 
 | Проект | Описание | Технологии | Ссылки |
 |--------|----------|------------|--------|
-| **Dog Breed Classification** | Классификация пород собак по изображению | CNN, Transfer Learning (ResNet) | [📔 Ноутбук](computer_vision/dog_breed_classification/dogs.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](...) |
-| **Watermark Removal Autoencoder** | Удаление водяных знаков с изображений | Autoencoder, U-Net | [📔 Ноутбук](computer_vision/watermark_removal_autoencoder/watermark.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](...) |
-| ... | | | |
+| **Dog Breed Classification** | Классификация пород собак по изображению | CNN, Transfer Learning (ResNet) | [📔 Ноутбук](computer_vision/dog_breed_classification/Dog_breed_classification.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NikitaIvagin/ml-portfolio/blob/main/computer_vision/dog_breed_classification/Dog_breed_classification.ipynb) |
+| **Watermark Removal Autoencoder** | Удаление водяных знаков с изображений | Autoencoder, U-Net | [📔 Ноутбук](computer_vision/watermark_removal_autoencoder/Watermark_removal_autoencoder.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NikitaIvagin/ml-portfolio/blob/main/computer_vision/watermark_removal_autoencoder/Watermark_removal_autoencoder.ipynb) |
+| **GAN comparison fashion** | Сравнения GAN, обученных на Fashion MNIST | Autoencoder, GAN | [📔 Ноутбук](computer_vision/gan_comparison_fashion/GAN_comparison_fashion.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NikitaIvagin/ml-portfolio/blob/main/computer_vision/gan_comparison_fashion/GAN_comparison_fashion.ipynb) |
+| **Lung segmentation Unet++** | Сегментация легких с использованием архитектуры Unet++ | Autoencoder, U-Net++ | [📔 Ноутбук](computer_vision/lung_segmentation_unet/Lung_segmentation_unet.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NikitaIvagin/ml-portfolio/blob/main/computer_vision/lung_segmentation_unet/Lung_segmentation_unet.ipynb) |
+| **Traffic sign detection** | Обнаружение дорожных знаков | YOLOv11, cv2 | [📔 Ноутбук](computer_vision/traffic_sign_detection/Traffic_sign_detection.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NikitaIvagin/ml-portfolio/blob/main/computer_vision/traffic_sign_detection/Traffic_sign_detection.ipynb) |
 
 ### 📊 Табличные данные
 
 | Проект | Описание | Технологии | Ссылки |
 |--------|----------|------------|--------|
-| **Parkinson’s Disease Detection** | Предсказание болезни Паркинсона по голосовым признакам | MLP, XGBoost, Feature Eng. | [📔 Ноутбук](tabular_data/parkinson_detection/parkinson.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](...) |
-| ... | | | |
+| **Parkinson’s Disease Detection** | Предсказание болезни Паркинсона по признакам | MLP, XGBoost, Feature Eng. | [📔 Ноутбук](tabular_data/parkinson_detection/Parkinson_detection.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NikitaIvagin/ml-portfolio/blob/main/tabular_data/parkinson_detection/Parkinson_detection.ipynb) |
+| **Сar price prediction** | Предсказание цены на японские автомобили в зависимости от характеристик | Pandas, MLP | [📔 Ноутбук](tabular_data/car_price_prediction/Car_price_prediction.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NikitaIvagin/ml-portfolio/blob/main/tabular_data/car_price_prediction/Car_price_prediction.ipynb) |
+| **Mall customer clustering** | Распределение покупателей ТЦ по группам | Pandas, Autoencoder | [📔 Ноутбук](tabular_data/mall_customer_clustering/Mall_customer_clustering.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NikitaIvagin/ml-portfolio/blob/main/tabular_data/mall_customer_clustering/Mall_customer_clustering.ipynb) |
+| **Mushroom toxicity** | Определение токсичности гриба по его параметрам | Pandas, XGBoost | [📔 Ноутбук](tabular_data/mushroom_toxicity/Обнаружение_ядовитых_грибов.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NikitaIvagin/ml-portfolio/blob/main/tabular_data/mushroom_toxicity/Обнаружение_ядовитых_грибов.ipynb) |
 
 ### ⏳ Временные ряды
 
 | Проект | Описание | Технологии | Ссылки |
 |--------|----------|------------|--------|
-| **Apple Stock Forecast** | Прогнозирование котировок акций Apple | LSTM, Prophet | [📔 Ноутбук](time_series/apple_stock_forecast/stock.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](...) |
+| **Apple Stock Forecast** | Прогнозирование котировок акций Apple | LSTM | [📔 Ноутбук](time_series/apple_stock_forecast/Apple_stock_forecast.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NikitaIvagin/ml-portfolio/blob/main/time_series/apple_stock_forecast/Apple_stock_forecast.ipynb) |
 
 ### 🎮 Обучение с подкреплением
 
 | Проект | Описание | Технологии | Ссылки |
 |--------|----------|------------|--------|
-| **Policy Gradient Atari** | Обучение агента игре в Atari через Policy Gradient | OpenAI Gym, PyTorch | [📔 Ноутбук](reinforcement_learning/policy_gradient_atari/atari.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](...) |
-| **Chess RL Comparison** | Сравнение алгоритмов RL в задаче игры в шахматы | DQN, A2C, Stable Baselines | [📔 Ноутбук](reinforcement_learning/chess_rl_comparison/chess_rl.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](...) |
+| **Policy Gradient Atari** | Обучение агента игре в Atari через Policy Gradient | OpenAI Gym, PyTorch | [📔 Ноутбук](reinforcement_learning/policy_gradient_atari/Policy_gradient_Atari.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NikitaIvagin/ml-portfolio/blob/main/reinforcement_learning/policy_gradient_atari/Policy_gradient_Atari.ipynb) |
+| **Chess RL Comparison** | Сравнение алгоритмов RL в задаче игры в шахматы | DQN, BC, REINFORCE | [📔 Ноутбук](reinforcement_learning/rl_comparison_chess/Реализация_и_сравнение_алгоритмов_обучения_с_подкреплением.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NikitaIvagin/ml-portfolio/blob/main/reinforcement_learning/rl_comparison_chess/Реализация_и_сравнение_алгоритмов_обучения_с_подкреплением.ipynb) |
 
 ### 🎨 Генеративные модели и нейроэволюция
 
 | Проект | Описание | Технологии | Ссылки |
 |--------|----------|------------|--------|
-| **Chopin → Mozart Music Generation** | Генерация музыки в стиле Моцарта после обучения на Шопене | LSTM, Music21 | [📔 Ноутбук](generative_models/music_generation_chopin_mozart/music.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](...) |
-| **Genetic CNN/MLP** | Улучшение архитектур CNN и MLP генетическим алгоритмом | PyGAD, Keras | [📔 Ноутбук](neuroevolution/genetic_cnn_mlp/genetic.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](...) |
+| **Chopin → Mozart Music Generation** | Генерация музыки в стиле Моцарта после обучения на Шопене | LSTM, pretty_midi | [📔 Ноутбук](generative_models/music_generation_chopin_mozart/Music_generation_Chopin_Mozart.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NikitaIvagin/ml-portfolio/blob/main/generative_models/music_generation_chopin_mozart/Music_generation_Chopin_Mozart.ipynb) |
+
+### 🎨 Генетические алгоритмы
+
+| Проект | Описание | Технологии | Ссылки |
+|--------|----------|------------|--------|
+| **Genetic CNN/MLP** | Улучшение архитектур CNN и MLP генетическим алгоритмом | Keras, CNN, MLP| [📔 Ноутбук](neuroevolution/genetic_cnn_mlp/Genetic_CNN_MLP.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NikitaIvagin/ml-portfolio/blob/main/neuroevolution/genetic_cnn_mlp/Genetic_CNN_MLP.ipynb) |
 
 ### 🚀 Деплой и сервисы
 
 | Проект | Описание | Технологии | Ссылки |
 |--------|----------|------------|--------|
-| **REST API for Neural Network** | Обёртка нейросети в REST API | Flask, Docker | [📔 Ноутбук](deployment/rest_api_neural_network/api.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](...) |
-| **Telegram QA Bot** | Бот, отвечающий на вопросы по пользовательской базе знаний | LangChain, Chroma, aiogram | [📔 Ноутбук](nlp/telegram_qa_bot/bot.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](...) |
-| ... | | | |
+| **REST API for Neural Network** | Обёртка нейросети в REST API | FastAPI | [📔 Ноутбук](deployment/rest_api_neural_network/REST_API_neural_network.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NikitaIvagin/ml-portfolio/blob/main/deployment/rest_api_neural_network/REST_API_neural_network.ipynb) |
 
 ## 🏆 Избранные проекты
 
@@ -79,7 +86,7 @@
 
 1. Нажмите на кнопку **Open in Colab** рядом с проектом.
 2. В Colab выберите: `Среда выполнения` → `Выполнить всё` (или `Среда выполнения` → `Сменить среду выполнения` для GPU/TPU).
-3. Для зависимостей: в первой ячейке обычно прописаны `!pip install ...`, либо в папке проекта есть `requirements.txt`.
+3. Для зависимостей: в начале блокнота обычно прописаны `!pip install ...`.
 
 ## 📬 Контакты
 
