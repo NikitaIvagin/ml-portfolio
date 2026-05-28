@@ -94,6 +94,7 @@
 
 - LinkedIn:
 - Email: niki4iv01@gmail.com
+- tg: @minusov_ne_vizhu
 
 ## ⭐ Ещё кое-что
 
