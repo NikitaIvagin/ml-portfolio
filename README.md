@@ -19,7 +19,7 @@
 
 | Проект | Описание | Технологии | Ссылки |
 |--------|----------|------------|--------|
-| **Fake News Detection** | Классификация фейковых новостей по заголовку и тексту | LSTM, BERT, TF-IDF | [📔 Ноутбук](nlp/fake_news_detection/fake_news.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NikitaIvagin/ml-portfolio/blob/main/nlp/fake_news_detection/Fake_news_Passive_Aggressive.ipynb) |
+| **Fake News Detection** | Классификация фейковых новостей по заголовку и тексту | LSTM, BERT, TF-IDF | [📔 Ноутбук](nlp/fake_news_detection/Fake_news_Passive_Aggressive.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NikitaIvagin/ml-portfolio/blob/main/nlp/fake_news_detection/Fake_news_Passive_Aggressive.ipynb) |
 | **Author Identification** | Распознавание автора по отрывку текста | n-grams, TF-IDF, MLP | [📔 Ноутбук](nlp/author_identification/author.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NikitaIvagin/ml-portfolio/blob/main/nlp/author_identification/author.ipynb) |
 | **GPT Headline Generator** | Дообучение GPT для генерации заголовков статей | GPT-2, Transformers | [📔 Ноутбук](nlp/gpt_headline_generator/gpt_headlines.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NikitaIvagin/ml-portfolio/blob/main/nlp/gpt_headline_generator/GPT_headline_generator.ipynb) |
 | ...  | | | |
