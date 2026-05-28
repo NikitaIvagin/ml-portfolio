@@ -1,4 +1,3 @@
-# ml-portfolio
 # Портфолио проектов по машинному обучению и нейросетям
 
 Привет! 👋 Я увлекаюсь глубоким обучением, компьютерным зрением, NLP и смежными областями.
@@ -20,9 +19,11 @@
 | Проект | Описание | Технологии | Ссылки |
 |--------|----------|------------|--------|
 | **Fake News Detection** | Классификация фейковых новостей по заголовку и тексту | LSTM, BERT, TF-IDF | [📔 Ноутбук](nlp/fake_news_detection/Fake_news_Passive_Aggressive.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NikitaIvagin/ml-portfolio/blob/main/nlp/fake_news_detection/Fake_news_Passive_Aggressive.ipynb) |
-| **Author Identification** | Распознавание автора по отрывку текста | n-grams, TF-IDF, MLP | [📔 Ноутбук](nlp/author_identification/author.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NikitaIvagin/ml-portfolio/blob/main/nlp/author_identification/author.ipynb) |
-| **GPT Headline Generator** | Дообучение GPT для генерации заголовков статей | GPT-2, Transformers | [📔 Ноутбук](nlp/gpt_headline_generator/gpt_headlines.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NikitaIvagin/ml-portfolio/blob/main/nlp/gpt_headline_generator/GPT_headline_generator.ipynb) |
-| ...  | | | |
+| **Author Identification** | Распознавание автора по отрывку текста | n-grams, TF-IDF, MLP | [📔 Ноутбук](nlp/author_identification/Author_identification.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NikitaIvagin/ml-portfolio/blob/main/nlp/author_identification/Author_identification.ipynb) |
+| **GPT Headline Generator** | Дообучение GPT для генерации заголовков статей | GPT-2, Transformers | [📔 Ноутбук](nlp/gpt_headline_generator/GPT_headline_generator.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NikitaIvagin/ml-portfolio/blob/main/nlp/gpt_headline_generator/GPT_headline_generator.ipynb) |
+| **Сorporate documentation QA** | Нейро-сотрудник, отвечающий по документации | RAG, LlamaIndex | [📔 Ноутбук](nlp/corporate_documentation_qa/Data_пайплайн_и_поисковая_система_по_корпоративной_нормативной_документации.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NikitaIvagin/ml-portfolio/blob/main/nlp/corporate_documentation_qa/Data_пайплайн_и_поисковая_система_по_корпоративной_нормативной_документации.ipynb) |
+| **Google doc QA** | Нейро-сотрудник, отвечающий по базе знаний из гугл-документа | RAG, OpenAI | [📔 Ноутбук](nlp/google_doc_qa/Google_doc_QA.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NikitaIvagin/ml-portfolio/blob/main/nlp/google_doc_qa/Google_doc_QA.ipynb) |
+| **Telegram QA bot** | TG-бот нейро-сотрудник, отвечающий по базе знаний | RAG, OpenAI | [📔 Ноутбук](nlp/telegram_qa_bot/Telegram_QA_bot.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NikitaIvagin/ml-portfolio/blob/main/nlp/telegram_qa_bot/Telegram_QA_bot.ipynb) |
 
 ### 📸 Computer Vision
 
